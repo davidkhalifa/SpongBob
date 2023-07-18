@@ -1,0 +1,50 @@
+.description {
+    margin-left: 280px;
+    padding: 10px;
+}
+.box {
+    background-image: radial-gradient(circle, rgba(255, 255, 255, 0.636), rgba(102, 97, 97, 0.4));   
+}
+.bob {
+    padding: 10px;
+    text-align: left;
+    margin-right: 200px;
+}
+.container {
+    margin-top: 40px;
+}
+.ttl {
+    margin-bottom: 30px;
+}
+.border {
+    padding: 8px;
+}
+.tittleadvice {
+    text-align: center;
+    margin-top: 20px;
+    padding: 8px;
+}
+.adcontainer {
+    background-image: radial-gradient(circle, rgba(159, 136, 136, 0.138), rgba(139, 101, 51, 0.4)); 
+}
+#advice {
+    text-align: center;
+    padding: 4px;
+    font-family: serif;
+}
+.git {
+    text-align: left;
+}
+.git a{
+    text-decoration: none;
+}
+@media screen and (max-width: 995px) {
+    .description {
+        margin-left: 2px;
+        text-align: center;
+    }
+    .bob {
+        text-align: center;
+        margin-right: 2px;
+    }
+}
